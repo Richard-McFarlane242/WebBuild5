@@ -7,7 +7,7 @@ body {
 }
 
 .g-header {
-    background: #333;
+    background: #ff0000;
     color: #fff;
     padding: 1rem;
 }
@@ -31,7 +31,7 @@ body {
 }
 
 .g-footer {
-    background: #333;
+    background: #ff0000;
     color: #fff;
     text-align: center;
     padding: 1rem;
@@ -47,21 +47,20 @@ body {
     max-width: 800px;
     margin: 2rem auto;
     padding: 2rem;
-    border: 2px solid #333;
+    border: 2px solid #000000;
     border-radius: 10px;
-    background-color: #f9f9f9;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    background-color: #ffffff;
     text-align: center;
 }
 
 .p-home h1 {
     margin-bottom: 1rem;
-    color: #333; 
+    color: #000000; 
     font-size: 2rem; 
 }
 
 .p-home p {
-    color: #555;
+    color: #000000;
     line-height: 1.6;
 }
 
@@ -90,7 +89,7 @@ body {
 }
 
 .p-samples a:hover {
-    background-color: #1860ac;
+    background-color: #16589e;
     transform: translateY(-5px);
 }
 
